@@ -1,0 +1,16 @@
+# Java artifacts that may appear when using MARS
+*.class
+*.jar
+
+# Temporary and editor files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE metadata
+.idea/
+.vscode/
