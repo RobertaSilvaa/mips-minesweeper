@@ -75,9 +75,3 @@ The source was reviewed for:
 The board contains 25 cells, 3 mines, and 22 safe cells, which matches the victory condition.
 
 No MARS or SPIM executable was provided with the source, so simulator assembly and runtime behavior still need to be verified locally.
-
-## Suggested Commit Message
-
-```text
-fix: standardize Minesweeper logic and English naming
-```
